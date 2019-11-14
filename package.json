@@ -207,7 +207,7 @@
   },
   "dependencies": {
     "sax": ">=0.6.0",
-    "xmlbuilder": "11.0.0"
+    "xmlbuilder": "git+https://git@github.com/benveo/xmlbuilder.git#8bdc718624952f97228a430a0f63ace97b7a9404"
   },
   "devDependencies": {
     "coffee-script": ">=1.10.0",
